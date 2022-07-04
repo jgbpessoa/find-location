@@ -13,6 +13,14 @@ html {
   text-align: center;
 }
 
+#formatted {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
 form {
   text-align: center;
   margin: 2rem auto;
